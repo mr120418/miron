@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: gold;
+    height: 35px;
+    border-bottom: black 3px solid;
+}
+
+header a{
+    color: black;
+    background-color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 10px;
+    position: relative;
+    top:7px;
+    left: 3px;
+}
+
+nav{
+    background-color: gold;
+    height: 35px;
+}
+
+nav a{
+    color: black;
+    background-color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-left: 10px;
+    position: relative;
+    top:6px;
+}
+
+main img{
+    width: 100%;
+    position: relative;
+    top: 5px;
+}
+
+main{
+    color: white;
+    background-color: black;
+}
+
+footer{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+}
